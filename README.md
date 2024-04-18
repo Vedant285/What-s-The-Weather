@@ -1,4 +1,4 @@
-# What's The Wheather
+# What's The Weather
 Weather API-based Website for real-time weather information with additional facilities.
 
 
